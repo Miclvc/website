@@ -1,5 +1,5 @@
-import { database, P } from '$cms'; // eslint-disable-line
-import * as P from '$cms/field';
+import { database } from '$cms'; // eslint-disable-line
+import * as P from '$cms/fields';
 /* --- */
 
 export default database({
